@@ -27,7 +27,7 @@ The **Sports Scholarship App** aims to:
 
 ## 🛠️ Technologies Used
 
-- **Frontend:** HTML, CSS, JavaScript  
+- **Frontend:** React - VITE, JavaScript  
 - **Backend:** Python (Flask) / Node.js  
 - **Database:** MySQL / MongoDB  
 - **Authentication:** JWT / Flask-Login  
